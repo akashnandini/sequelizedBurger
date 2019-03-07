@@ -1,0 +1,36 @@
+body{
+    background-color: #f8f0b9;
+}
+h1{
+    color: red
+}
+.available{      
+    background-color: #fcf7da;
+    width:450px;
+    padding:10px;
+    color:rgb(109, 109, 228);
+    
+}
+.image{
+    align-content: center;
+}
+.devoured{
+    width:300px;
+    padding:10px; 
+    background-color: #fcf7da;
+    color:rgb(142, 142, 167);
+    
+}
+.btn{
+    background-color: rgb(62, 62, 153);
+    color:white;
+}
+.devour{
+    background-color: rgb(62, 62, 153);
+    color:white;
+    float: right;
+}
+.text{
+    color:rgb(21, 21, 27);
+    font-size: 12px;
+}
